@@ -1,0 +1,73 @@
+{
+	"Setting": "ตั้งค่า",
+	"Register": "ลงทะเบียน",
+	"Medical Rights": "สิทธิการเบิกค่ารักษาพยาบาล",
+	"Hospital Type": "ประเภทสถานพยาบาล",
+	"Device": "ข้อมูลการเบิกอุปกรณ์",
+
+	"----------TABLE----------": "",
+	"Registered Date": "วันที่ลงทะเบียน",
+	"Employee ID": "รหัสพนักงาน",
+	"ID Card Number": "เลขบัตรประชาชน",
+	"Accident Date": "วันที่เกิดเหตุ",
+	"Accident Type": "ประเภทอุบัติเหตุ",
+
+	"Right": "สิทธิ",
+	"Type Right": "ประเภทสิทธิ",
+	"Year": "ปี",
+	"Amount": "ยอดเงิน",
+
+	"Hospital Type Name": "ประเภทสถานพยาบาล",
+
+	"Device Code": "รหัสอุปกรณ์",
+	"Device Name": "ชื่ออุปกรณ์",
+	"Device Amount": "ยอดเงิน",
+	"Device Withdrawal Cycle": "รอบการเบิกอุปกรณ์ (ปี)",
+
+	"active": "ใช้งาน",
+	"Inactive": "ไม่ใช้งาน",
+	"No records found": "ไม่พบข้อมูล",
+
+	"----------MODAL----------": "",
+	"Cancel": "ยกเลิก",
+	"Edit": "แก้ไข",
+	"Save": "บันทึก",
+	"Void": "ยกเลิกการใช้งาน",
+	"Renew": "เปิดการใช้งาน",
+	"Select": "เลือก",
+
+	"----------Hospital Information MODAL----------": "",
+	"Hospital Information": "ข้อมูลสถานพยาบาล",
+
+	"----------Document Signer MODAL----------": "",
+	"Document Signer": "ผู้ลงนามเอกสาร",
+
+	"----------Treatment Rights MODAL----------": "",
+	"Medical Treatment Rights": "สิทธิการรักษาพยาบาล",
+
+	"room_id": "รหัสห้อง",
+	"room_type": "ประเภทห้อง",
+	"active_status_only": "แสดงสถานะใช้งานเท่านั้น",
+	"Add New": "เพิ่มรายการใหม่",
+	"status": "สถานะ",
+	"action": "Action",
+	"room_type_added_successfully": "เพิ่มประเภทห้องเรียบร้อยแล้ว",
+	"room_type_updated_successfully": "อัปเดตประเภทห้องเรียบร้อยแล้ว",
+	"add/edit_room_type": "เพิ่ม/แก้ไขประเภทห้อง",
+	"view_room_type": "ดูประเภทห้อง",
+	"enter_room_type": "กรอกประเภทห้อง",
+	"view_room_type_details": "ดูรายละเอียดประเภทห้อง",
+	"edit": "แก้ไข",
+	"add": "เพิ่ม",
+	"view": "ดู",
+	"cancel": "ยกเลิก",
+	"id": "ID",
+  "General Admin": "ผู้ดูแลระบบทั่วไป",
+  "Holiday": "วันหยุด",
+  "Timeout Config": "การกำหนด Timeout",
+  "Announcement": "ประกาศ",
+  "Sign-out Timer": "ตัวจับเวลาการออกจากระบบ",
+  "Time Before Automatic Sign-out": "เวลาที่เหลือก่อนออกจากระบบอัตโนมัติ",
+  "Enter Time": "ป้อนเวลา"
+  
+}

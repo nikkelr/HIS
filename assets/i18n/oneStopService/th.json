@@ -1,0 +1,11 @@
+{
+	"one_stop_service": "One Stop Service",
+	"patient_list": "รายชื่อผู้ป่วย",
+	"registration": "การลงทะเบียน",
+	"appointments": "การนัดหมาย",
+	"inprogress": "กำลังดำเนินการ",
+	"pharmacy_billing": "ห้องยาและการเงิน",
+	"completed": "เสร็จสมบูรณ์",
+	"pharmacy_outlet": "outlet ยา",
+	"patient_data": "ข้อมูลผู้ป่วย"
+}

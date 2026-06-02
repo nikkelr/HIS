@@ -1,0 +1,14 @@
+{
+	"manage_chronic_disease": "Manage Chronic Disease Type",
+	"manage_all_chronic_disease": "Manage all chronic disease types here.",
+	"no_chronic_disease_add": "There is no chronic disease type now, Please create a new one",
+	"chronic_disease_ip_label": "Chronic Disease Type Name",
+	"create_chronic_disease": "Create Chronic Disease Type",
+	"back_to_chronic": "Back to Chronic Disease Types",
+	"chronic_disease_count": "Chronic Disease Type ({{count}}) : ",
+	"chronic_disease_updated_successfully": "Chronic disease type updated successfully",
+	"chronic_disease_added_successfully": "Chronic disease type added successfully",
+	"active": "Active",
+	"inactive": "Inactive",
+	"maxlength_error": "The field maxlength is {{count}}"
+}

@@ -1,0 +1,22 @@
+{
+	"year": "ปี",
+	"month": "เดือน",
+	"apply": "ปรับใช้",
+	"total_amount": "จำนวนเงิน",
+	"please_select_a_year_and_month": "โปรดเลือกปีและเดือน",
+	"accounting_report": "รายงานการบัญชี",
+	"report_type": "ประเภทรายงาน",
+	"specific_info": "ข้อมูลเฉพาะ",
+	"plan_name": "ชื่อแผน",
+	"bill_number": "หมายเลขบิล",
+	"date": "วันที่",
+	"start_date": "วันที่เริ่มต้น",
+	"end_date": "วันที่สิ้นสุด",
+	"history_log": "บันทึกประวัติ",
+	"cancel": "ยกเลิก",
+	"print_report": "พิมพ์รายงาน",
+	"print": "พิมพ์",
+	"export_date": "วันที่ส่งออก",
+	"report_date": "วันที่รายงาน",
+	"action": "การเคลื่อนไหว"
+}

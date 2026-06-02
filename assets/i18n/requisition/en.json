@@ -1,0 +1,36 @@
+{
+	"Requisition": "Requisition",
+	"Requisition Report": "Requisition Report",
+	"Social Work Consulting": "Social Work Consulting",
+	"Social Work Consulting Report": "Social Work Consulting Report",
+	"Register": "Register",
+	"Print Report": "Print Report",
+
+	"----------TABLE----------": "",
+	"Registered Date": "Registered Date",
+	"Employee ID": "Employee ID",
+	"ID Card Number": "ID Card Number",
+	"Accident Date": "Accident Date",
+	"Accident Type": "Accident Type",
+	"Active": "Active",
+	"Inactive": "Inactive",
+	"No records found": "No records found",
+
+	"----------MODAL----------": "",
+	"Cancel": "Cancel",
+	"Delete": "Delete",
+	"Save": "Save",
+	"Void": "Void",
+	"Renew": "Renew",
+	"Select": "Select",
+
+	"----------REGISTER MODAL----------": "",
+	"Edit Social Work": "Edit Social Work",
+	"Add Social Work": "Add Social Work",
+
+	"----------PERSONNEL INFORMATION SEARCH MODAL----------": "",
+	"Personnel Information Search": "Personnel Information Search",
+
+	"----------RECORD OF EXPENSE MODAL----------": "",
+	"Record Of Expense": "Record Of Expense"
+}

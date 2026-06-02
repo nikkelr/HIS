@@ -1,0 +1,1 @@
+var h=class u{static mapData(t,c,e,n){let i=l=>{let a=t;return l.forEach(P=>{a=a?a[P]:void 0}),a},r;typeof c=="function"?r=c(t):r=i(c||[]);let f;typeof e=="function"?f=e(t):f=i(e||[]);let o;n?typeof n=="function"?o=n(t):o=i(n||e):o=f;let s=new u;return s.id=r,s.value=f,s.thaiValue=o,s.data=t,s}};export{h as a};

@@ -1,0 +1,23 @@
+{
+	"Edit holiday": "Edit holiday",
+	"Add new holiday": "Add new holiday",
+	"Status": "Status",
+	"Holiday Name": "Holiday Name",
+	"Enter holiday name": "Enter holiday name",
+	"Holoday Name TH": "Holiday Name TH",
+	"Enter holiday name TH": "Enter holiday name TH",
+	"One Day": "One Day",
+	"Period": "Period",
+	"Holiday Date": "Holiday Date",
+	"Date is required": "Date is required",
+	"Select Date": "Select Date",
+	"Start Date": "Start Date",
+	"Select start date": "Select start date",
+	"End Date": "End Date",
+	"Select end date": "Select end date",
+	"Annual Recurring": "Annual Recurring",
+	"Select institution": "Select institution",
+	"Note": "Note",
+	"Cancel": "Cancel",
+	"Save": "Save"
+}

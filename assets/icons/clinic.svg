@@ -1,0 +1,10 @@
+<svg height="1024" version="1.1" viewBox="0 0 1024 1024" width="1024" xmlns="http://www.w3.org/2000/svg">
+	<title></title>
+	<g id="icomoon-ignore">
+	</g>
+	<path d="M192 874.667h42.667v42.667h-42.667v-42.667z" fill="#000" stroke="#000" stroke-linecap="butt"
+				stroke-linejoin="miter"
+				stroke-miterlimit="4" stroke-width="42.6667"></path>
+	<path
+		d="M810.667 170.667h-597.333v682.667h128v-256h341.333v256h128v-682.667zM426.667 853.333h170.667v-170.667h-170.667v170.667zM341.333 938.667h-256v-85.333h42.667v-768h768v768h42.667v85.333h-597.333zM469.333 512v-85.333h-85.333v-85.333h85.333v-85.333h85.333v85.333h85.333v85.333h-85.333v85.333h-85.333z"></path>
+</svg>

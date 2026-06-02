@@ -1,0 +1,14 @@
+{
+	"manage_chronic_disease": "จัดการโรคเรื้อรัง",
+	"manage_all_chronic_disease": "จัดการโรคเรื้อรังทุกประเภทได้ที่นี่",
+	"no_chronic_disease_add": "ปัจจุบันไม่มีโรคเรื้อรัง โปรดสร้างโรคใหม่",
+	"chronic_disease_ip_label": "ชื่อโรคเรื้อรัง",
+	"create_chronic_disease": "สร้างโรคเรื้อรัง",
+	"back_to_chronic": "กลับไปที่โรคเรื้อรัง",
+	"chronic_disease_count": "โรคเรื้อรัง ({{count}}) :",
+	"chronic_disease_updated_successfully": "อัปเดทโรคเรื้อรังเรียบร้อยแล้ว",
+	"chronic_disease_added_successfully": "เพิ่มโรคเรื้อรังสำเร็จแล้ว",
+	"active": "ใช้งาน",
+	"inactive": "ไม่ใช้งาน",
+	"maxlength_error": "ความยาวสูงสุดของช่องคือ {{count}}"
+}

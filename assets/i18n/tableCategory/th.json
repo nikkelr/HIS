@@ -1,0 +1,17 @@
+{
+	"itemId": "รหัสรายการ",
+	"itemName": "ชื่อรายการ",
+	"description": "คำอธิบาย",
+	"startDate": "วันที่เริ่ม",
+	"endDate": "วันที่สิ้นสุด",
+	"price": "ราคา",
+	"status": "สถานะ",
+	"Status": "สถานะ",
+	"category": "หมวดหมู่",
+	"subCategory": "หมวดหมู่ย่อย",
+	"createdAt": "วันที่สร้าง",
+	"updatedAt": "วันที่อัปเดต",
+	"dispensingUnit": "หน่วยจ่าย",
+	"investigateType": "ประเภทการตรวจ",
+	"specimenType": "ประเภทสิ่งส่งตรวจ"
+}

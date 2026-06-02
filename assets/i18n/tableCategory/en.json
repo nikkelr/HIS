@@ -1,0 +1,17 @@
+{
+	"itemId": "Item Id",
+	"itemName": "Item Name",
+	"description": "Description",
+	"startDate": "Start Date",
+	"endDate": "End Date",
+	"price": "Price",
+	"status": "Status",
+	"Status": "Status",
+	"category": "Category",
+	"subCategory": "Sub Category",
+	"createdAt": "Created At",
+	"updatedAt": "Updated At",
+	"dispensingUnit": "Dispensing Unit",
+	"investigateType": "Investigate Type",
+	"specimenType": "Specimen Type"
+}

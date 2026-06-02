@@ -1,0 +1,1 @@
+import{d as t,k as r,l as n,n as f}from"./chunk-74OCBRGA.js";import{g as o}from"./chunk-YSFFOO55.js";var l=o(f());function N(e,i,s){r(t,JSON.stringify({origin:e,data:i,isFilterEmpty:s}))}function g(){let e=n(t);if(!e)return null;try{return JSON.parse(e)}catch(i){return null}}export{N as a,g as b};
