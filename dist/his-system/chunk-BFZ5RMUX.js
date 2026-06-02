@@ -1,0 +1,1 @@
+import{a as r}from"./chunk-PACRSHMI.js";function e(i){let t=i.startsWith("/")?i.substring(1):i,n=`${r.api_url}${r.api_prefix}${t}`;return console.debug("[buildApiUrl]",{path:i,cleanPath:t,baseUrl:r.api_url,prefix:r.api_prefix,result:n}),n}export{e as a};
