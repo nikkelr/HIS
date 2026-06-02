@@ -1,0 +1,72 @@
+{
+	"Setting": "Setting",
+	"Register": "Register",
+	"Medical Rights": "Medical Rights",
+	"Hospital Type": "Hospital Type",
+	"Device": "Device",
+
+	"----------TABLE----------": "",
+	"Registered Date": "Registered Date",
+	"Employee ID": "Employee ID",
+	"ID Card Number": "ID Card Number",
+	"Accident Date": "Accident Date",
+	"Accident Type": "Accident Type",
+
+	"Right": "Right",
+	"Type Right": "Type Right",
+	"Year": "Year",
+	"Amount": "Amount",
+
+	"Hospital Type Name": "Hospital Type Name",
+
+	"Device Code": "Device Code",
+	"Device Name": "Device Name",
+	"Device Amount": "Device Amount",
+	"Device Withdrawal Cycle": "Device Withdrawal Cycle",
+
+	"active": "Active",
+	"Inactive": "Inactive",
+	"No records found": "No records found",
+
+	"----------ACTIONS----------": "",
+	"Cancel": "Cancel",
+	"Edit": "Edit",
+	"Save": "Save",
+	"Void": "Void",
+	"Renew": "Renew",
+	"Select": "Select",
+
+	"----------Hospital Information----------": "",
+	"Hospital Information": "Hospital Information",
+
+	"----------Document Signer----------": "",
+	"Document Signer": "Document Signer",
+
+	"----------Treatment Rights----------": "",
+	"Medical Treatment Rights": "Medical Treatment Rights",
+
+	"room_id": "Room ID",
+	"room_type": "Room Type",
+	"status": "Status",
+	"action": "Action",
+	"room_type_added_successfully": "Room type added successfully",
+	"room_type_updated_successfully": "Room type updated successfully",
+	"add/edit_room_type": "Add/Edit Room Type",
+	"view_room_type": "View Room Type",
+	"enter_room_type": "Enter Room Type",
+	"view_room_type_details": "View Room Type Details",
+	"edit": "Edit",
+	"add": "Add",
+	"view": "View",
+	"cancel": "Cancel",
+	"id": "Id",
+	"active_status_only": "Active Status Only",
+	"Add New": "Add New",
+  "General Admin": "General Admin",
+  "Holiday": "Holiday",
+  "Timeout Config": "Timeout Config",
+  "Announcement": "Announcement",
+  "Sign-out Timer": "Sign-out Timer",
+  "Time Before Automatic Sign-out": "Time Before Automatic Sign-out",
+  "Enter Time": "Enter Time"
+}

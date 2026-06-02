@@ -1,0 +1,36 @@
+{
+	"Requisition": "ทะเบียนใบเบิกค่ารักษา รพ. ภายนอก",
+	"Requisition Report": "รายงาน",
+	"Social Work Consulting": "บริการให้คำปรึกษางานสังคมสงเคราะห์",
+	"Social Work Consulting Report": "รายงานบริการให้คำปรึกษางานสังคมสงเคราะห์",
+	"Register": "ลงทะเบียน",
+	"Print Report": "พิมพ์รายงาน",
+
+	"----------TABLE----------": "",
+	"Registered Date": "วันที่ลงทะเบียน",
+	"Employee ID": "รหัสพนักงาน",
+	"ID Card Number": "เลขที่บัตรประชาชน",
+	"Accident Date": "วันที่เกิดเหตุ",
+	"Accident Type": "ประเภทอุบัติเหตุ",
+	"Active": "ใช้งาน",
+	"Inactive": "ยกเลิก",
+	"No records found": "ไม่พบข้อมูล",
+
+	"----------MODAL----------": "",
+	"Cancel": "ยกเลิก",
+	"Delete": "ลบ",
+	"Save": "บันทึก",
+	"Void": "ยกเลิกการใช้งาน",
+	"Renew": "เปิดการใช้งาน",
+	"Select": "เลือก",
+
+	"----------REGISTER MODAL----------": "",
+	"Edit Social Work": "บันทึกงานสังคมสงเคราะห์",
+	"Add Social Work": "ลงทะเบียนงานสังคมสงเคราะห์",
+
+	"----------PERSONNEL INFORMATION SEARCH MODAL----------": "",
+	"Personnel Information Search": "ค้นหาข้อมูลบุคคลากร",
+
+	"----------RECORD OF EXPENSE MODAL----------": "",
+	"Record Of Expense": "บันทึกรายการค่าใช้จ่าย"
+}

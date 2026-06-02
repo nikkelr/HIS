@@ -1,0 +1,23 @@
+{
+	"Edit holiday": "แก้ไขวันหยุด",
+	"Add new holiday": "เพิ่มวันหยุดใหม่",
+	"Status": "สถานะ",
+	"Holiday Name": "ชื่อวันหยุด",
+	"Enter holiday name": "กรอกชื่อวันหยุด",
+	"Holiday Name TH": "ชื่อวันหยุดภาษาไทย",
+	"Enter holiday name TH": "กรอกชื่อวันหยุดภาษาไทย",
+	"One Day": "หนึ่งวัน",
+	"Period": "ช่วงเวลา",
+	"Holiday Date": "วันที่หยุด",
+	"Date is required": "ต้องระบุวันที่",
+	"Select Date": "เลือกวันที่",
+	"Start Date": "วันที่เริ่มต้น",
+	"Select start date": "เลือกวันที่เริ่มต้น",
+	"End Date": "วันที่สิ้นสุด",
+	"Select end date": "เลือกวันที่สิ้นสุด",
+	"Annual Recurring": "เกิดขึ้นประจำทุกปี",
+	"Select institution": "เลือกสถาบัน",
+	"Note": "หมายเหตุ",
+	"Cancel": "ยกเลิก",
+	"Save": "บันทึก"
+}

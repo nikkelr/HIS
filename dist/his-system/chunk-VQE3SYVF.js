@@ -1,0 +1,1 @@
+var M="dd-MM-yyyy",Y="DD-MM-YYYY",t="YYYY-MM-DD";var A="HH:mm";var T=/^(?:\d{2}-\d{2}-\d{4}|\d{4}-\d{2}-\d{2})$/;var _={parse:{dateInput:Y},display:{dateInput:Y,monthYearLabel:"MMM YYYY",dateA11yLabel:"LL",monthYearA11yLabel:"MMMM YYYY"}};export{M as a,Y as b,t as c,A as d,T as e,_ as f};

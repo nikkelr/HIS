@@ -1,0 +1,22 @@
+{
+	"year": "Year",
+	"month": "Month",
+	"apply": "Apply",
+	"total_amount": "Total Amount",
+	"please_select_a_year_and_month": "Please select a year and month.",
+	"accounting_report": "Accounting Report",
+	"report_type": "Report Type",
+	"specific_info": "Specific Info",
+	"plan_name": "Plan name",
+	"bill_number": "Bill Number",
+	"date": "Date",
+	"start_date": "Start date",
+	"end_date": "End date",
+	"history_log": "History log",
+	"cancel": "Cancel",
+	"print_report": "Print Report",
+	"print": "Print",
+	"export_date": "Export Date",
+	"report_date": "Report Date",
+	"action": "Action"
+}
