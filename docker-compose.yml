@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  his-ui:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: his-ui-service
+    ports:
+      - "8081:80"
+    restart: always
