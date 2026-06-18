@@ -1,0 +1,1 @@
+import{Fb as n,pc as r}from"./chunk-T5I6AF4V.js";var p=(()=>{class i{onClick(t){t.stopPropagation()}static{this.\u0275fac=function(o){return new(o||i)}}static{this.\u0275dir=n({type:i,selectors:[["","appStopPropagation",""]],hostBindings:function(o,e){o&1&&r("click",function(c){return e.onClick(c)})}})}}return i})();export{p as a};
