@@ -18,7 +18,7 @@
 	"want_to_edit_raw_material_expense": "Do you want to Edit Raw material expense ?",
 	"raw_material_expense_added": "Added raw material expense has been saved successfully.",
 	"raw_material_expense_edited": "Raw material expense has been edit successfully.",
-  "number_of_patients": "Number of patients",
-  "total_cost_summary": "Total cost summary",
-  "no_item_data" : "No Item Data"
+	"number_of_patients": "Number of patients",
+	"total_cost_summary": "Total cost summary",
+	"no_item_data": "No Item Data"
 }

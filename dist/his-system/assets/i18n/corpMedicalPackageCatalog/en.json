@@ -35,8 +35,8 @@
 	"medical_pacakge_list": "Medical Pacakge List",
 	"active": "Active",
 	"inactive": "In Active",
-  "update_pricing" : "Update Pricing",
-  "mediacal-package-catalog": "mediacal-package-catalog",
-  "total_price" : "Total Price",
-  "annual_health_checkup": "Annual Health Check-Up"
+	"update_pricing": "Update Pricing",
+	"mediacal-package-catalog": "mediacal-package-catalog",
+	"total_price": "Total Price",
+	"annual_health_checkup": "Annual Health Check-Up"
 }

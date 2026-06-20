@@ -62,12 +62,11 @@
 	"view": "ดู",
 	"cancel": "ยกเลิก",
 	"id": "ID",
-  "General Admin": "ผู้ดูแลระบบทั่วไป",
-  "Holiday": "วันหยุด",
-  "Timeout Config": "การกำหนด Timeout",
-  "Announcement": "ประกาศ",
-  "Sign-out Timer": "ตัวจับเวลาการออกจากระบบ",
-  "Time Before Automatic Sign-out": "เวลาที่เหลือก่อนออกจากระบบอัตโนมัติ",
-  "Enter Time": "ป้อนเวลา"
-  
+	"General Admin": "ผู้ดูแลระบบทั่วไป",
+	"Holiday": "วันหยุด",
+	"Timeout Config": "การกำหนด Timeout",
+	"Announcement": "ประกาศ",
+	"Sign-out Timer": "ตัวจับเวลาการออกจากระบบ",
+	"Time Before Automatic Sign-out": "เวลาที่เหลือก่อนออกจากระบบอัตโนมัติ",
+	"Enter Time": "ป้อนเวลา"
 }

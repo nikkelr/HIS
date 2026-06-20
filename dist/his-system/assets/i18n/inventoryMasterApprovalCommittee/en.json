@@ -28,10 +28,10 @@
 	"cost_center": "Cost Center",
 	"create_team": "Create Team",
 	"search_in_staff_name": "Search Employee Name",
-  "search_in_staff_id": "Search Employee ID",
+	"search_in_staff_id": "Search Employee ID",
 	"member_created_successfully": "Add Employee committee has been saved successfully.",
 	"member_updated_successfully": "Employee committee has been updated successfully.",
-  "employee_id": "Employee ID",
+	"employee_id": "Employee ID",
 	"employee_name": "Employee Name",
 	"team_position": "Team Position",
 	"new_member": "New Member",
@@ -42,7 +42,7 @@
 	"add_team_member": "Add Team Member",
 	"add_team_member_desc": "Add team members and fill in team position(s) role for each member",
 	"delete_warning_tooltip": "This member already in Committee team, please remove this member from the team to delete",
-  "select_inspection_team" : "Select Receving Inspection Team",
-  "cost_center_id": "Cost Center ID",
+	"select_inspection_team": "Select Receving Inspection Team",
+	"cost_center_id": "Cost Center ID",
 	"cost_center_name": "Cost Center Name"
 }

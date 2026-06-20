@@ -77,8 +77,8 @@
 	"freezed_stock_info": "The stock is currently freeze! Please contact the inventory admin",
 	"expire_date": "Expire date",
 	"remain_qty": "Remaining Qty",
-  "mfd": "Mfd",
-  "exp": "Exp",
-  "ref_received_no": "Reference Received No",
-  "keyword": "Keyword"
+	"mfd": "Mfd",
+	"exp": "Exp",
+	"ref_received_no": "Reference Received No",
+	"keyword": "Keyword"
 }

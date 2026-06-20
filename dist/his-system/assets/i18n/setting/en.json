@@ -62,11 +62,11 @@
 	"id": "Id",
 	"active_status_only": "Active Status Only",
 	"Add New": "Add New",
-  "General Admin": "General Admin",
-  "Holiday": "Holiday",
-  "Timeout Config": "Timeout Config",
-  "Announcement": "Announcement",
-  "Sign-out Timer": "Sign-out Timer",
-  "Time Before Automatic Sign-out": "Time Before Automatic Sign-out",
-  "Enter Time": "Enter Time"
+	"General Admin": "General Admin",
+	"Holiday": "Holiday",
+	"Timeout Config": "Timeout Config",
+	"Announcement": "Announcement",
+	"Sign-out Timer": "Sign-out Timer",
+	"Time Before Automatic Sign-out": "Time Before Automatic Sign-out",
+	"Enter Time": "Enter Time"
 }

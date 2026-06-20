@@ -39,13 +39,13 @@
 	"start_date": "Start date",
 	"end_date": "End date",
 	"unfreeze_stock": "UnFreeze stock",
-  "add_new_batch" : "Add new Batch",
-  "no_of_batch" : "Number of Batch",
-  "cancel" : "Cancel",
-  "add" : "Add",
-  "reset_batch" : "Reset batch",
-  "duplicate_batch_no_detected" : "Duplicate Batch No. detected",
-  "total" : "Total",
-  "batch_not_filled" : "The contain a Batch No. that has not been filled",
-  "keyword": "Keyword"
+	"add_new_batch": "Add new Batch",
+	"no_of_batch": "Number of Batch",
+	"cancel": "Cancel",
+	"add": "Add",
+	"reset_batch": "Reset batch",
+	"duplicate_batch_no_detected": "Duplicate Batch No. detected",
+	"total": "Total",
+	"batch_not_filled": "The contain a Batch No. that has not been filled",
+	"keyword": "Keyword"
 }

@@ -51,13 +51,13 @@
 	"budget_info": "Budget info",
 	"period_budget_date": "Period Budget : {{startDate}} to {{endDate}}",
 	"period_budget": "Period Budget",
-  "by_name": "by {{name}}",
-  "active_status": "Active Status",
-  "date_type": "Date Type",
-  "exact_date": "Exact Date",
-  "date_range": "Date Range",
-  "total_budget_amount": "Total Budget Amount",
-  "sub_budget_type": "Sub Budget Type",
-  "year": "Year",
-  "cancel": "Cancel"
+	"by_name": "by {{name}}",
+	"active_status": "Active Status",
+	"date_type": "Date Type",
+	"exact_date": "Exact Date",
+	"date_range": "Date Range",
+	"total_budget_amount": "Total Budget Amount",
+	"sub_budget_type": "Sub Budget Type",
+	"year": "Year",
+	"cancel": "Cancel"
 }
