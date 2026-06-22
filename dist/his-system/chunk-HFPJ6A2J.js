@@ -1,1 +1,0 @@
-import{Fa as o,ma as r}from"./chunk-T5I6AF4V.js";var a=(()=>{class t{constructor(){this.scrollLoadEvent=new o}emitScrollIdentifier(e){this.scrollLoadEvent.emit(e)}scrollEvent(){return this.scrollLoadEvent.asObservable()}static{this.\u0275fac=function(i){return new(i||t)}}static{this.\u0275prov=r({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{a};
